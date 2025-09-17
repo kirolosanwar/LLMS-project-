@@ -18,7 +18,7 @@ and provides a simple interface using **Streamlit** for easy interaction.
 
 Here’s a preview of the Quiz Generator app:
 
-![Quiz Generator Screenshot](SRC/output/Screenshot(546).png)
+![Quiz Generator Screenshot](SRC/output/photo.png)
 
 ## 🛠️ Requirements
 - Python 3.10 or later

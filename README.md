@@ -19,7 +19,7 @@ and provides a simple interface using **Streamlit** for easy interaction.
 
 Here’s a preview of the Quiz Generator app:
 
-![Quiz Generator Screenshot](images/screenshot.png)
+![Quiz Generator Screenshot](SRC/output/WhatsApp Image 2025-09-17 at 5.36.08 PM.jpeg)
 ----------
 ## 🛠️ Requirements
 - Python 3.10 or later
@@ -31,6 +31,4 @@ Here’s a preview of the Quiz Generator app:
   - `PyPDF2`
   - `python-dotenv`
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
+
